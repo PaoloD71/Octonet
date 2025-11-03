@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: octonet.test
+Bundle-Vendor: octonet
+Bundle-SymbolicName: octonet.test
+Bundle-Version: 0.0.1.qualifier
+Fragment-Host: octonet.plugin;bundle-version="0.0.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-21
+Require-Bundle: junit-jupiter-api
+Automatic-Module-Name: octonet.test

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+<!--
+   	<feature url="octonet.feature_0.0.1.qualifier.jar" id="octonet.feature" version="0.0.1.qualifier">
+      	<category name="octonet.category"/>
+   	</feature>
+   	<feature url="octonet.feature.source_0.0.1.qualifier.jar" id="octonet.feature.source" version="0.0.1.qualifier">
+      	<category name="octonet.category"/>
+   	</feature>
+   	<category-def name="octonet.category" label="octonet Category">
+      	<description>octonet Category</description>
+   	</category-def>
+   	-->
+</site>
